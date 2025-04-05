@@ -1,0 +1,398 @@
+team.id,team.name,school.name
+23190,fdu knights,fdu
+45547,cleveland state vikings,cleveland state
+65497,georgia southern eagles,georgia southern
+90855,boston celtics,nba team
+92215,montana grizzlies,montana
+106669,college of charleston cougars,college of charleston
+145155,tulsa golden hurricane,tulsa
+217823,drexel dragons,drexel
+239144,seton hall pirates,seton hall
+259138,bucknell bison,bucknell
+271362,south dakota state jackrabbits,south dakota state
+283983,grambling tigers,grambling
+387463,south florida bulls,south florida
+404438,dallas mavericks,nba team
+419549,florida atlantic owls,florida atlantic
+462743,western carolina catamounts,western carolina
+611569,rutgers scarlet knights,rutgers
+625828,american eagles,american
+627609,golden state warriors,nba team
+639608,eastern kentucky colonels,eastern kentucky
+647168,syracuse orange,syracuse
+663281,western michigan broncos,western michigan
+767497,florida state seminoles,florida state
+776106,washington wizards,nba team
+796835,indiana state sycamores,indiana state
+865761,jacksonville state gamecocks,jacksonville state
+868271,louisville cardinals,louisville
+881245,minnesota timberwolves,nba team
+909742,st. john's (ny) red storm,st. john's (ny)
+965755,eastern illinois panthers,eastern illinois
+1013552,iowa state cyclones,iowa state
+1024856,bellarmine knights,bellarmine
+1031309,unc greensboro spartans,unc greensboro
+1033792,north alabama lions,north alabama
+1070310,samford bulldogs,samford
+1098541,villanova wildcats,villanova
+1103337,oregon ducks,oregon
+1128766,texas a&m-corpus christi islanders,texas a&m-corpus christi
+1169228,pepperdine waves,pepperdine
+1191733,old dominion monarchs,old dominion
+1201277,jacksonville dolphins,jacksonville
+1203585,california baptist lancers,california baptist
+1206073,alabama a&m bulldogs,alabama a&m
+1241474,brown bears,brown
+1302564,washington state cougars,washington state
+1325540,memphis tigers,memphis
+1326576,san jose state spartans,san jose state
+1326747,ucsb gauchos,uc santa barbara
+1352832,grand canyon antelopes,grand canyon
+1356740,kansas jayhawks,kansas
+1382166,tennessee-martin skyhawks,tennessee-martin
+1400060,san diego state aztecs,san diego state
+1403800,cal state fullerton titans,cal state fullerton
+1413335,lindenwood lions,lindenwood
+1415200,murray state racers,murray state
+1468367,northern illinois huskies,northern illinois
+1551706,nevada wolf pack,nevada
+1551783,marist red foxes,marist
+1569135,cleveland cavaliers,nba team
+1657398,utep miners,utep
+1677031,utah state aggies,utah state
+1691683,iowa hawkeyes,iowa
+1694737,nicholls state colonels,nicholls state
+1731221,new mexico lobos,new mexico
+1751965,miami (oh) redhawks,miami (oh)
+1772294,east carolina pirates,east carolina
+1799266,arkansas state red wolves,arkansas state
+1905384,marshall thundering herd,marshall
+1910335,campbell fighting camels,campbell
+1913579,robert morris colonials,robert morris
+1925864,mcneese state cowboys,mcneese state
+1955464,kansas state wildcats,kansas state
+2084746,clemson tigers,clemson
+2148134,south carolina state bulldogs,south carolina state
+2169156,ohio state buckeyes,ohio state
+2182102,notre dame fighting irish,notre dame
+2201178,prairie view panthers,prairie view
+2208754,wake forest demon deacons,wake forest
+2232898,loyola (md) greyhounds,loyola (md)
+2270885,saint peter's peacocks,saint peter's
+2314394,georgia bulldogs,georgia
+2327617,central connecticut state blue devils,central connecticut state
+2355762,stony brook seawolves,stony brook
+2376992,new orleans privateers,new orleans
+2405820,the citadel bulldogs,the citadel
+2472689,southern utah thunderbirds,southern utah
+2473167,virginia cavaliers,virginia
+2475972,rider broncs,rider
+2501204,purdue boilermakers,purdue
+2518438,new mexico state aggies,new mexico state
+2522918,miami (fl) hurricanes,miami (fl)
+2535231,fordham rams,fordham
+2573475,tennessee state tigers,tennessee state
+2591819,georgia tech yellow jackets,georgia tech
+2679392,james madison dukes,james madison
+2715173,portland state vikings,portland state
+2729493,northern arizona lumberjacks,northern arizona
+2741142,missouri tigers,missouri
+2742995,high point panthers,high point
+2776207,lehigh mountain hawks,lehigh
+2782738,niagara purple eagles,niagara
+2802786,houston rockets,nba team
+2816161,kansas city roos,kansas city
+2827005,southern illinois salukis,southern illinois
+2830494,north carolina a&t aggies,north carolina a&t
+2863936,minnesota golden gophers,minnesota
+2907896,louisiana-monroe warhawks,louisiana-monroe
+2909980,long island university sharks,long island university
+2933277,evansville purple aces,evansville
+2937583,st. bonaventure bonnies,st. bonaventure
+2961333,xavier musketeers,xavier
+2983806,sacramento state hornets,sacramento state
+3018298,pittsburgh panthers,pittsburgh
+3022848,penn state nittany lions,penn state
+3032215,monmouth hawks,monmouth
+3047804,arkansas-pine bluff golden lions,arkansas-pine bluff
+3067010,georgetown hoyas,georgetown
+3071482,george mason patriots,george mason
+3076348,maryland terrapins,maryland
+3088730,austin peay governors,austin peay
+3094320,san antonio spurs,nba team
+3108358,ucf knights,ucf
+3136178,yale bulldogs,yale
+3145406,auburn tigers,auburn
+3175499,texas a&m-commerce lions,texas a&m-commerce
+3176425,brooklyn nets,nba team
+3179186,presbyterian blue hose,presbyterian
+3235267,stanford cardinal,stanford
+3285475,southern illinois-edwardsville cougars,southern illinois-edwardsville
+3288995,belmont bruins,belmont
+3293971,tulane green wave,tulane
+3297918,uc-san diego tritons,uc san diego
+3324386,uc-irvine anteaters,uc irvine
+3325209,lafayette leopards,lafayette
+3356334,portland pilots,portland
+3414616,connecticut huskies,connecticut
+3424109,florida international panthers,florida international
+3424969,quinnipiac bobcats,quinnipiac
+3434708,memphis grizzlies,nba team
+3484919,houston christian huskies,houston christian
+3515550,binghamton bearcats,binghamton
+3517311,le moyne dolphins,le moyne
+3548055,northeastern huskies,northeastern
+3675717,kentucky wildcats,kentucky
+3751300,orlando magic,nba team
+3786245,abilene christian wildcats,abilene christian
+3843022,furman paladins,furman
+3868698,towson tigers,towson
+3887270,southern methodist mustangs,southern methodist
+3989327,delaware state hornets,delaware state
+4017089,south carolina gamecocks,south carolina
+4041269,merrimack warriors,merrimack
+4061182,missouri state bears,missouri state
+4100314,bryant bulldogs,bryant
+4139429,oakland golden grizzlies,oakland
+4150689,phoenix suns,nba team
+4170488,new hampshire wildcats,new hampshire
+4180319,massachusetts-lowell river hawks,massachusetts-lowell
+4256153,southern california trojans,southern california
+4270651,creighton bluejays,creighton
+4280085,wagner seahawks,wagner
+4329967,baylor bears,baylor
+4330556,iona gaels,iona
+4347084,alabama state hornets,alabama state
+4363542,idaho state bengals,idaho state
+4412644,little rock trojans,little rock
+4422787,north carolina tar heels,north carolina
+4513856,milwaukee bucks,nba team
+4532045,saint francis (pa) red flash,saint francis (pa)
+4540819,mississippi rebels,mississippi
+4560842,colgate raiders,colgate
+4568163,gardner-webb runnin' bulldogs,gardner-webb
+4598608,valparaiso beacons,valparaiso
+4612763,navy midshipmen,navy
+4677168,utsa roadrunners,utsa
+4677764,western kentucky hilltoppers,western kentucky
+4713459,indiana pacers,nba team
+4781439,morgan state bears,morgan state
+4810096,north florida ospreys,north florida
+4833157,rice owls,rice
+4858828,washington huskies,washington
+4860921,radford highlanders,radford
+4874566,stetson hatters,stetson
+4877719,wyoming cowboys,wyoming
+4877817,milwaukee panthers,milwaukee
+4908973,boise state broncos,boise state
+4972849,santa clara broncos,santa clara
+4976457,florida a&m rattlers,florida a&m
+4985604,east tennessee state buccaneers,east tennessee state
+4998666,canisius golden griffins,canisius
+5022485,idaho vandals,idaho
+5043728,appalachian state mountaineers,appalachian state
+5053096,oklahoma city thunder,nba team
+5069065,texas state bobcats,texas state
+5095410,stonehill skyhawks,stonehill
+5113325,tarleton state texans,tarleton state
+5127338,eastern michigan eagles,eastern michigan
+5133339,north carolina central eagles,north carolina central
+5165061,nebraska cornhuskers,nebraska
+5209094,virginia tech hokies,virginia tech
+5261052,elon phoenix,elon
+5275168,boston university terriers,boston university
+5337067,alcorn state braves,alcorn state
+5355417,stephen f. austin lumberjacks,stephen f. austin
+5373103,jackson state tigers,jackson state
+5382380,texas tech red raiders,texas tech
+5421964,los angeles clippers,nba team
+5433852,utah jazz,nba team
+5472091,wright state raiders,wright state
+5530847,butler bulldogs,butler
+5604679,texas a&m aggies,texas a&m
+5706624,miami heat,nba team
+5746111,oklahoma sooners,oklahoma
+5748156,st. thomas tommies,st. thomas
+5773944,indiana hoosiers,indiana
+5775570,nc state wolfpack,nc state
+5834453,weber state wildcats,weber state
+5914567,tennessee tech golden eagles,tennessee tech
+5942811,northwestern state demons,northwestern state
+5954964,longwood lancers,longwood
+5961977,detroit pistons,nba team
+5967238,maine black bears,maine
+5974732,bethune-cookman wildcats,bethune-cookman
+6058540,delaware fightin' blue hens,delaware
+6079647,pacific tigers,pacific
+6114864,norfolk state spartans,norfolk state
+6123965,buffalo bulls,buffalo
+6131757,gonzaga bulldogs,gonzaga
+6133642,uc-davis aggies,uc davis
+6143374,southern mississippi golden eagles,southern mississippi
+6157548,virginia commonwealth rams,virginia commonwealth
+6159439,bradley braves,bradley
+6182517,chattanooga mocs,chattanooga
+6194246,troy trojans,troy
+6197475,kennesaw state owls,kennesaw state
+6210710,la salle explorers,la salle
+6254544,hawaii rainbow warriors,hawaii
+6266515,cal state bakersfield roadrunners,cal state bakersfield
+6268079,air force falcons,air force
+6272585,northwestern wildcats,northwestern
+6273019,youngstown state penguins,youngstown state
+6277004,sacramento kings,nba team
+6459958,queens (nc) royals,queens (nc)
+6464519,columbia lions,columbia
+6479343,sacred heart pioneers,sacred heart
+6485142,manhattan jaspers,manhattan
+6492837,northern iowa panthers,northern iowa
+6494233,mount st. mary's mountaineers,mount st. mary's
+6494676,ucla bruins,ucla
+6522666,arizona wildcats,arizona
+6574111,dayton flyers,dayton
+6618345,siena saints,siena
+6639810,portland trail blazers,nba team
+6676153,cal poly mustangs,cal poly
+6686791,cal state northridge matadors,cal state northridge
+6708701,holy cross crusaders,holy cross
+6713696,dartmouth big green,dartmouth
+6792888,oklahoma state cowboys,oklahoma state
+6799273,liberty flames,liberty
+6867008,mercer bears,mercer
+6939925,florida gators,florida
+6944680,louisiana ragin' cajuns,louisiana
+6983234,tcu horned frogs,tcu
+6988137,ball state cardinals,ball state
+7000123,vermont catamounts,vermont
+7058493,incarnate word cardinals,incarnate word
+7099300,drake bulldogs,drake
+7131414,los angeles lakers,nba team
+7155030,morehead state eagles,morehead state
+7161060,texas-rio grande valley vaqueros,texas-rio grande valley
+7178474,texas southern tigers,texas southern
+7198692,michigan state spartans,michigan state
+7251459,oregon state beavers,oregon state
+7305119,saint mary's (ca) gaels,saint mary's (ca)
+7305311,central arkansas bears,central arkansas
+7312845,southern indiana screaming eagles,southern indiana
+7389868,houston cougars,houston
+7448123,fresno state bulldogs,fresno state
+7471194,hofstra pride,hofstra
+7506769,lamar cardinals,lamar
+7510087,charlotte 49ers,charlotte
+7510132,massachusetts minutemen,massachusetts
+7524286,illinois fighting illini,illinois
+7538459,new orleans pelicans,nba team
+7564959,alabama crimson tide,alabama
+7569221,kent state golden flashes,kent state
+7576627,wofford terriers,wofford
+7616471,southern jaguars,southern
+7616560,western illinois leathernecks,western illinois
+7632571,richmond spiders,richmond
+7642057,south dakota coyotes,south dakota
+7645676,long beach state beach,long beach state
+7662069,saint louis billikens,saint louis
+7664285,colorado buffaloes,colorado
+7688278,hampton pirates,hampton
+7696796,iupui jaguars,iupui
+7704889,njit highlanders,njit
+7709752,seattle redhawks,seattle
+7740627,mississippi valley state delta devils,mississippi valley state
+7760448,southeastern louisiana lions,southeastern louisiana
+7767740,unc wilmington seahawks,unc wilmington
+7815324,princeton tigers,princeton
+7838275,temple owls,temple
+7856712,charleston southern buccaneers,charleston southern
+7892451,uc-riverside highlanders,uc riverside
+7894568,arizona state sun devils,arizona state
+7920111,nevada-las vegas rebels,nevada-las vegas
+7948870,denver pioneers,denver
+7955612,loyola (il) ramblers,loyola (il)
+7965410,toronto raptors,nba team
+7988607,montana state bobcats,montana state
+8069604,cincinnati bearcats,cincinnati
+8085018,army black knights,army
+8119902,georgia state panthers,georgia state
+8165978,marquette golden eagles,marquette
+8172441,utah tech trailblazers,utah tech
+8236136,north texas mean green,north texas
+8317854,winthrop eagles,winthrop
+8329705,omaha mavericks,omaha
+8366204,toledo rockets,toledo
+8374139,california golden bears,california
+8392684,philadelphia 76ers,nba team
+8397664,northern colorado bears,northern colorado
+8399206,duquesne dukes,duquesne
+8433881,north dakota state bison,north dakota state
+8461262,loyola marymount lions,loyola marymount
+8509208,central michigan chippewas,central michigan
+8529918,saint joseph's hawks,saint joseph's
+8612599,green bay phoenix,green bay
+8613529,coastal carolina chanticleers,coastal carolina
+8622908,davidson wildcats,davidson
+8660216,george washington revolutionaries,george washington
+8663410,illinois state redbirds,illinois state
+8680497,san francisco dons,san francisco
+8705594,uab blazers,uab
+8722818,southeast missouri state redhawks,southeast missouri state
+8775327,atlanta hawks,nba team
+8777257,coppin state eagles,coppin state
+8791457,purdue fort wayne mastodons,purdue fort wayne
+8795533,colorado state rams,colorado state
+8796624,west virginia mountaineers,west virginia
+8811802,cornell big red,cornell
+8815789,san diego toreros,san diego
+8818700,bowling green state falcons,bowling green state
+8829995,ut arlington mavericks,ut arlington
+8833238,virginia military institute keydets,virginia military institute
+8896562,utah valley wolverines,utah valley
+8948515,wisconsin badgers,wisconsin
+8965014,maryland-baltimore county retrievers,maryland-baltimore county
+9000522,mississippi state bulldogs,mississippi state
+9051499,unc asheville bulldogs,unc asheville
+9056627,texas longhorns,texas
+9109832,michigan wolverines,michigan
+9111082,oral roberts golden eagles,oral roberts
+9133101,north dakota fighting hawks,north dakota
+9168707,new york knicks,nba team
+9201294,ohio bobcats,ohio
+9201832,maryland-eastern shore hawks,maryland-eastern shore
+9218344,duke blue devils,duke
+9255476,william & mary tribe,william & mary
+9277446,south carolina upstate spartans,south carolina upstate
+9291339,louisiana state fighting tigers,louisiana state
+9293878,eastern washington eagles,eastern washington
+9310251,denver nuggets,nba team
+9344199,louisiana tech bulldogs,louisiana tech
+9391964,northern kentucky norse,northern kentucky
+9458598,akron zips,akron
+9490113,chicago state cougars,chicago state
+9505072,charlotte hornets,nba team
+9550584,south alabama jaguars,south alabama
+9588871,chicago bulls,nba team
+9592002,middle tennessee blue raiders,middle tennessee
+9613096,florida gulf coast eagles,florida gulf coast
+9639773,lipscomb bisons,lipscomb
+9652753,boston college eagles,boston college
+9655071,vanderbilt commodores,vanderbilt
+9655157,wichita state shockers,wichita state
+9666009,illinois-chicago flames,illinois-chicago
+9669477,providence friars,providence
+9689629,howard bison,howard
+9706668,sam houston bearkats,sam houston
+9736029,arkansas razorbacks,arkansas
+9750154,harvard crimson,harvard
+9779691,albany (ny) great danes,albany (ny)
+9788480,brigham young cougars,brigham young
+9801604,tennessee volunteers,tennessee
+9828854,detroit mercy titans,detroit mercy
+9830772,utah utes,utah
+9912285,depaul blue demons,depaul
+9920979,pennsylvania quakers,pennsylvania
+9935794,fairfield stags,fairfield
+9974760,rhode island rams,rhode island
+133851,st. francis (ny) terriers,st. francis (ny)
+9819763,hartford hawks,hartford
+2612712,savannah state tigers,savannah state
+1941856,centenary (la) gents,centenary (la)
+8954613,birmingham-southern panthers,birmingham-southern
